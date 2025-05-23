@@ -1,8 +1,2 @@
-# A microbial genotype to phenotype map for transcriptional regulation 
-Contains scripts used for data analysis.
-
-## TO DO
-
-- [ ] Add information about bacterial databases used in study.
-- [ ] Generalised script for GWAS all analysis.
-- [ ] Generalised scripts for plots (swarmplots, line plots)
+#Identification of cis non-coding genetic variation associated with gene expression changes in E. coli and P. aeruginosa
+Contains scripts used for data analysis and figure generation for this study.
