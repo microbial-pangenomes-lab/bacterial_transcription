@@ -5,7 +5,7 @@ Below is a short description for the scripts and notebooks used for all analyses
 
 ## Differential expression analyses
 
-## *differential_analysis_DESeq2.R* ##
+# *differential_analysis_DESeq2.R* #
 Performs differential expression analysis using DESeq2 on raw RNA-seq count matrices for *E. coli* and *P. aeruginosa* strains.
 
 *differential_analysis_LPEseq.R*
