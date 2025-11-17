@@ -36,7 +36,7 @@ Generates Manhattan and QQ plots from GWAS outputs to visualise genome-wide asso
 
 ## Transcriptional Modeling and Regulatory Interpretation
 
-*predicted_transcription_rates.ipynb*  
+*predicted_tx_analysis.ipynb*  
 Computes predicted transcription rates for each gene or operon using sequence-based features (promoter content, motifs, UTR features, etc.).
 
 *nCV_TFBS_overlap.ipynb*  
